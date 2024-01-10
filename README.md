@@ -178,6 +178,13 @@ python manage.py runserver
   http://127.0.0.1:8000/
 
 - Setelah itu web tampilan project django sudah berjalan dan tampil pada browser anda.
+<img width="960" alt="7" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/b86e1cf3-4566-4016-9390-47e749b6408f">
+<img width="960" alt="6" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/494a46a7-d225-49bc-b82c-b07c8ea3942b">
+<img width="956" alt="5" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/bb9ec8fd-3b49-4cf5-88b2-52b6e4e6a3e2">
+<img width="958" alt="4" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/b039de7d-faf1-4d3f-a13c-df2c78e07220">
+<img width="959" alt="3" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/486486ce-66f0-4898-9630-7e7adab77434">
+<img width="956" alt="2" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/d2956054-6457-479d-949f-e2fda44421e1">
+<img width="960" alt="1" src="https://github.com/Febriyaninurhida123/Final-Task-Object-Oriented-Programming/assets/90132092/22f86948-fcc1-466b-a4a5-0ebe957e6c2a">
 
 
 ## Semoga Bermanfaat, Terima Kasih 
