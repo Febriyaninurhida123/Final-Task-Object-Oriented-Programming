@@ -10,6 +10,7 @@ Judul Project   : Sistem Polling Online
 Kelas           : TI. 22. A2
 Mata Kuliah     : Object Oriented Programming
 Dosen Pengampu  : Dr. Ir. Ananto Tri Sasongko, M.Sc.,
+```
 # Polling Online
 
 Polling Online adalah aplikasi web yang dibangun dengan Django, memungkinkan pengguna untuk melakukan vote/polling secara online
